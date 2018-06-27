@@ -16,7 +16,7 @@
 			font-weight: bold;
 		}
 
-		#container {
+		p {
 		  background-color: #808080;
 		  width: 90%;
 		  height: 150px;
@@ -26,7 +26,7 @@
 		  color: white;
 		}
 
-		#hl1 {
+		/*#hl1 {
 			background-color: #A52A2A;
 			position: relative;
 			width: 30px;
@@ -54,7 +54,7 @@
 		#p1, #p2, #p3 {
 			position: relative;
 			top: 20px;
-		}
+		}*/
 
 		@media (min-width: : 992px) {
 			.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, 
