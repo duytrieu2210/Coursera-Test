@@ -7,7 +7,7 @@
 			width: 100%;
 			margin-top: 30px;
 			margin-left: 20px;
-			background-color: #808080
+			background-color: #808080;
 			position: relative;
 		}
 
@@ -16,15 +16,15 @@
 			font-weight: bold;
 		}
 
-		/*p {
-		  background-color: #A52A2A;
+		#container {
+		  background-color: #808080;
 		  width: 90%;
 		  height: 150px;
 		  margin-right: auto;
 		  margin-left: auto;
 		  font-family: Helvetica;
 		  color: white;
-		}*/
+		}
 
 		#hl1 {
 			background-color: #A52A2A;
