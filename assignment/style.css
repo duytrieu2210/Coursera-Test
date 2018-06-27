@@ -26,7 +26,14 @@
 
 		#hl1, #hl2, #hl3 {
 			position: relative;
-			left: 30px;
+			width: 30px;
+			height: 10px;
+			left: 70px;
+		}
+
+		#p1, #p2, #p3 {
+			position: relative;
+			top: 20px;
 		}
 
 		@media (min-width: : 992px) {
